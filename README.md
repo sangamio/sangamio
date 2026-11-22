@@ -34,14 +34,19 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sangam123-max&show_icons=true&theme=dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangam123-max&layout=compact&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sangamio&show_icons=true&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamio&layout=compact&theme=dark" />
 </p>
 
 ---
 
 ## 🔗 Coding Profiles
-[LeetCode](https://leetcode.com/u/your-username) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/your-username) | [HackerRank](https://www.hackerrank.com/your-username) | [LinkedIn](https://www.linkedin.com/in/your-id)
+
+[LeetCode](https://leetcode.com/u/LEETCODE_USERNAME) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/GFG_USERNAME) | [CodeChef](https://www.codechef.com/users/CODECHEF_USERNAME) | [HackerEarth](https://www.hackerearth.com/@HACKEREARTH_USERNAME) | [HackerRank](https://www.hackerrank.com/profile/HACKERRANK_USERNAME)
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/shahusangam) | [Instagram](https://www.instagram.com/sr_sangam.xl/)
 
 ---
 
