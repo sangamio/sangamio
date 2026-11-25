@@ -5,13 +5,13 @@
 <p align="center">
   <a href="https://leetcode.com/u/LEETCODE_USERNAME"><img src="leetcode.png" width="24" height="24" alt="LeetCode"/> LeetCode</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/sangamshah213"><img src="geekforgeeks.png" width="24" height="24" alt="GeeksforGeeks"/> GeeksforGeeks</a>
+  <a href="https://www.geeksforgeeks.org/profile/sangamshah213"><img src="gfg.png" width="24" height="24" alt="GeeksforGeeks"/> GeeksforGeeks</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/sangamshahu123"><img src="hacker.png" width="24" height="24" alt="HackerRank"/> HackerRank</a>
+  <a href="https://www.hackerrank.com/sangamshahu123"><img src="hc.png" width="24" height="24" alt="HackerRank"/> HackerRank</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/sangamshah234"><img src="cc.png" width="24" height="24" alt="CodeChef"/> CodeChef</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/@sangamshahu123"><img src="hackerearth.png" width="24" height="24" alt="HackerEarth"/> HackerEarth</a>
+  <a href="https://www.hackerearth.com/@sangamshahu123"><img src="he.jpg" width="24" height="24" alt="HackerEarth"/> HackerEarth</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://classroom.coderide.in/student/dashboard"><img src="coderide.png" width="24" height="24" alt="Coderide"/> Coderide</a>
   &nbsp;&nbsp;&nbsp;
