@@ -1,6 +1,6 @@
-## 🔗 Coding Profiles
+##  Coding Profiles
 
-[LeetCode](https://leetcode.com/u/LEETCODE_USERNAME) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/GFG_USERNAME) |[HackerRank](https://www.hackerrank.com/profile/sangamshahu123) [CodeChef](https://www.codechef.com/users/sangamshah234) | [HackerEarth](https://www.hackerearth.com/@sangamshahu123)
+[LeetCode](https://leetcode.com/u/LEETCODE_USERNAME) | [GeeksforGeeks](https://www.geeksforgeeks.org/sangamshah213) |[HackerRank](https://www.hackerrank.com/profile/sangamshahu123) [CodeChef](https://www.codechef.com/users/sangamshah234) | [HackerEarth](https://www.hackerearth.com/@sangamshahu123)
 
 
 # Hi, I'm Sangam 👋
