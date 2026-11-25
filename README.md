@@ -1,7 +1,8 @@
 ##  Coding Profiles
 
 [LeetCode](https://leetcode.com/u/LEETCODE_USERNAME) | [GeeksforGeeks](https://www.geeksforgeeks.org/sangamshah213) | 
-[HackerRank](https://www.hackerrank.com/sangamshahu123) | [CodeChef](https://www.codechef.com/users/sangamshah234) | [HackerEarth](https://www.hackerearth.com/@sangamshahu123) | [Coderide](https://classroom.coderide.in/student/dashboard) 
+[HackerRank](https://www.hackerrank.com/sangamshahu123) | [CodeChef](https://www.codechef.com/users/sangamshah234) | [HackerEarth](https://www.hackerearth.com/@sangamshahu123) | [Coderide](https://classroom.coderide.in/student/dashboard) |
+[Codeforces](https://codeforces.com/profile/sangam345)
 
 
 # Hi, I'm Sangam 👋
