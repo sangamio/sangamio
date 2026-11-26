@@ -25,7 +25,6 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Student, interested in Python Full-Stack Development
 - 💻 Building web apps with Python and modern web tech
 - 🌱 Currently learning Django / Flask, React and SQL
 - 🧠 Practicing Data Structures and Algorithms
