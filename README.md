@@ -13,9 +13,9 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerearth.com/@sangamshahu123"><img src="he.jpg" width="24" height="24" alt="HackerEarth"/> HackerEarth</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://classroom.coderide.in/student/dashboard"><img src="coderide.png" width="24" height="24" alt="Coderide"/> Coderide</a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/sangam345"><img src="codeforces.png" width="24" height="24" alt="Codeforces"/> Codeforces</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://classroom.coderide.in/student/dashboard"><img src="coderide.png" width="24" height="24" alt="Coderide"/> Coderide</a>
 </p>
 
 # Hi, I'm Sangam 👋
