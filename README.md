@@ -7,13 +7,13 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/sangamshah213"><img src="gfg.png" width="24" height="24" alt="GeeksforGeeks"/> GeeksforGeeks</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/sangamshahu123"><img src="hc.png" width="24" height="24" alt="HackerRank"/> HackerRank</a>
+  <a href="https://www.hackerrank.com/profile/sangam_34"><img src="hc.png" width="24" height="24" alt="HackerRank"/> HackerRank</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/sangamshah234"><img src="cc.png" width="24" height="24" alt="CodeChef"/> CodeChef</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/@sangamshahu123"><img src="he.jpg" width="24" height="24" alt="HackerEarth"/> HackerEarth</a>
+  <a href="https://www.hackerearth.com/@sangam_34"><img src="he.jpg" width="24" height="24" alt="HackerEarth"/> HackerEarth</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/sangam345"><img src="codeforces.png" width="24" height="24" alt="Codeforces"/> Codeforces</a>
+  <a href="https://codeforces.com/profile/sangam_34"><img src="codeforces.png" width="24" height="24" alt="Codeforces"/> Codeforces</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://classroom.coderide.in/student/dashboard"><img src="coderide.png" width="24" height="24" alt="Coderide"/> Coderide</a>
 </p>
